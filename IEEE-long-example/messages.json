@@ -371,16 +371,16 @@
       "annotations": [
         {
           "start_index": 13,
-          "length": 12,
+          "length": 24,
           "format_metadata": {
-            "format_type": "BULLETED_LIST_ITEM"
+            "format_type": "BULLETED_LIST"
           }
         },
         {
           "start_index": 13,
-          "length": 24,
+          "length": 12,
           "format_metadata": {
-            "format_type": "BULLETED_LIST"
+            "format_type": "BULLETED_LIST_ITEM"
           }
         },
         {
@@ -1136,6 +1136,41 @@
       "text": "And so I don\u0027t forget (again), here\u0027s how to get the json\n1. Sign in to Google Takeout (https://takeout.google.com) with the same email you use to sign in to Google Chat \n2. Deselect all Google products (there is a tick box to do that at the top of the list) \n3. Select Google Chat \n4. Click Next",
       "topic_id": "eI72RYZ4iKI",
       "message_id": "AAAAkzIgRI8/eI72RYZ4iKI/eI72RYZ4iKI"
+    },
+    {
+      "creator": {
+        "name": "K Tokuda",
+        "email": "ktokudak@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, December 16, 2024 at 12:52:16 PM UTC",
+      "attached_files": [
+        {
+          "original_name": "pizzaBMP.bmp",
+          "export_name": "File-pizzaBMP.bmp"
+        },
+        {
+          "original_name": "pizzaBMP256.bmp",
+          "export_name": "File-pizzaBMP256.bmp"
+        },
+        {
+          "original_name": "pizzaGIF.gif",
+          "export_name": "File-pizzaGIF.gif"
+        }
+      ],
+      "topic_id": "VFPmGJdEEC0",
+      "message_id": "AAAAkzIgRI8/VFPmGJdEEC0/VFPmGJdEEC0"
+    },
+    {
+      "creator": {
+        "name": "K Tokuda",
+        "email": "ktokudak@gmail.com",
+        "user_type": "Human"
+      },
+      "created_date": "Monday, December 16, 2024 at 12:53:04 PM UTC",
+      "text": "images: gif, bmp, bmp 256",
+      "topic_id": "ueJRiDrZzRM",
+      "message_id": "AAAAkzIgRI8/ueJRiDrZzRM/ueJRiDrZzRM"
     }
   ]
 }
